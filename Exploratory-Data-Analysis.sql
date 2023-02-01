@@ -1,0 +1,1 @@
+SELECT * FROM cities INNER JOIN sales ON cities.City_ID = sales.City_ID
